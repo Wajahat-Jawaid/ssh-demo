@@ -1,1 +1,1 @@
-data class Item(val id: Double)
+data class Item(val id: Long)
