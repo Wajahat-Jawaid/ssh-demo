@@ -1,1 +1,1 @@
-data class Item(val id: Int)
+data class Item(val id: String)
